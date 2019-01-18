@@ -2,4 +2,3 @@ Avocado
 Løk
 Tomat
 koriander
-salt
